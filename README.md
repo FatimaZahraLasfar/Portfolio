@@ -23,9 +23,10 @@ A modern, responsive personal portfolio website for Fatima Zahra Lasfar, showcas
 - **Google Fonts** – Inter typeface.
 
 ## 📁 File Structure
-
+```
 fz.portfolio/
 ├── index.html          # Main HTML file
 ├── style.css           # All styles (CSS)
 ├── profile.jpg         # profile picture
 └── README.md           # This file
+```
