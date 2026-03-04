@@ -1,4 +1,4 @@
-# FZ. – Personal Portfolio
+# FZ – Personal Portfolio
 
 A modern, responsive personal portfolio website for Fatima Zahra Lasfar, showcasing her skills, experience, and projects as a software engineer, data analyst, and designer.
 
